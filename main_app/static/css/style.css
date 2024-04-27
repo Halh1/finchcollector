@@ -1,0 +1,29 @@
+body {
+    background-color: #E8DFCA;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    flex-grow: 1;
+}
+
+footer.page-footer {
+    padding-top: 0;
+}
+
+nav {
+    background-color: #76885B;
+    color: #DFD0B8;
+}
+
+.page-footer {
+    color: #DFD0B8;
+    background-color: #76885B;
+}
+
+h1 {
+    color: #4F6F52;
+}
